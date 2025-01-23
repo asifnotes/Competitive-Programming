@@ -1,2 +1,2 @@
-#Pray-Eat-code-sleep
+Pray-Eat-code-sleep
 # Competitive-Programming
